@@ -1,7 +1,5 @@
-# Laptop-Fan-Replacement
+# Laptop Fan Replacement
 Replacement of a rattling laptop fan
-
-![LaptopComplete] ()
 
 This was a repair project. This is a retro-active post as the laptop was repaired in Summer 2020
 This was a personal laptop of mine that had a loud grinding noise coming from the laptop when it was in use. 
